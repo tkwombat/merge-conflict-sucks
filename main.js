@@ -1,2 +1,2 @@
 var num = 50;
-var trush = "Hello World";
+var trush = "Hello Flat World";
